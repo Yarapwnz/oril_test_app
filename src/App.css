@@ -1,0 +1,8 @@
+.search-field{
+  color: black;
+  position: flex;
+  align-items: center;
+}
+.search-field:hover{
+  background-color: black;
+}
